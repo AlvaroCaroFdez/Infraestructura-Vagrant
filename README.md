@@ -109,6 +109,8 @@ Una vez finalizada la instalación y configurado el acceso SSH, es posible conec
 vagrant ssh debian-1
 vagrant ssh debian-2
 vagrant ssh debian-3
+vagrant ssh debian-4
+vagrant ssh debian-5
 ```
 
 ### 2.7 Administración de las Máquinas Virtuales
